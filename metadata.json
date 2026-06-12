@@ -1,0 +1,6 @@
+{
+  "name": "Studio Workspace",
+  "description": "A highly-polished minimalist task and project management workspace with an integrated terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
